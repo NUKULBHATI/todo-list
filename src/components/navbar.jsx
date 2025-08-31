@@ -7,7 +7,7 @@ const navbar = () => {
         <span className="material-symbols-outlined" style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
           article
         </span>
-        <h1 className='text-2xl font-bold'>YPlanner-Manage youe Plan's</h1>
+        <h1 className='text-2xl font-bold'>YPlanner-Manage Your Plan's</h1>
       </div>
       {/* <div className='title'>
         <ul className='flex gap-10 text-lg font-semibold max-md:hidden'>
